@@ -11,3 +11,5 @@ esbuild.d.ts
 esm-loader.d.ts
 rollup.d.ts
 index.d.ts
+pnpm-lock.yaml
+.npmrc
